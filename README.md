@@ -1,6 +1,5 @@
 ## Java Learning
 
-
 ### Objetivos ❕
 
 #### Esse repositório tem como objetivo centralizar todos os exercícios que eu realizei durante a disciplina de Programação Orientada a Objeto
@@ -13,4 +12,4 @@
 
 #### Disciplina cursada em 2023/01 na Universidade Técnologica Federal do Paraná - UTFPR.
 
-#### Para a conclusão da disciplina projetei o sistema: <a href="https://github.com/CheweeBR/Projeto-de-POO"> Gerenciador de estoque de uma loja de Jogos. </a>
+### Para a conclusão da disciplina projetei o sistema: <a href="https://github.com/CheweeBR/Projeto-de-POO"> Gerenciador de estoque de uma loja de Jogos. </a>
