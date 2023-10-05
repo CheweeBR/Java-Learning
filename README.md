@@ -13,7 +13,7 @@
 
 #### Disciplina cursada em 2023/01 na Universidade Técnologica Federal do Paraná - UTFPR.
 
-### Para a conclusão da disciplina projetei o sistema gerenciador de estoque de uma loja de Jogos.
+### <a href="https://github.com/CheweeBR/Projeto-de-POO">Para a conclusão da disciplina projetei o sistema gerenciador de estoque de uma loja de Jogos.  </a>
 <div>
-  <a href="https://github.com/CheweeBR/Projeto-de-POO"></a>
+
 </div>
